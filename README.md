@@ -5,6 +5,6 @@
 ##### 4. Langkah Ke Empat ketikan ```chmod +xbroadcom.sh  ```
 ##### 5. Langkah ke lima ketikan ``` ./broadcom.sh ```
 ##### 6. Langkah ke enam silahkan pilih aksinya..:
-###### 1. Install Driver
-###### 2. Tampilkan Perintah
-###### 3. Berhenti
+###### => 1. Install Driver
+###### => 2. Tampilkan Perintah
+###### => 3. Berhenti
